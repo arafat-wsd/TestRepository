@@ -26,8 +26,8 @@
 - Click on `Query` Tab in the page
 - Enter a `Structure Id`. You will get it from `groups.yaml` file of config project
 - Choose `States` to `active`
-- Choose Tags. You will find it from `site.yaml` file of config project
-- Click the search button
+- Choose `Tags`. You will find it from `site.yaml` file of config project
+- Click the `search` button
 
 A list will show up in the bottom of the page if result found. Click on any of it and copy the identifier value and paste it in the `value` field of the `api` call.
 
