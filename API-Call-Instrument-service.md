@@ -31,3 +31,4 @@
 
 A list will show up in the bottom of the page if result found. Click on any of it and copy the identifier value and paste it in the `value` field of the `api` call.
 
+i.e `ZAE000322616` is an identifier value
